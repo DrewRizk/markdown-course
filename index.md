@@ -9,3 +9,6 @@
 $ls
 foo.java bar.java program.jar
 ```
+- [ ] cd into the new directory
+- [ ] Initialize a git repository
+- [ ] Commit the changes to the main branch
